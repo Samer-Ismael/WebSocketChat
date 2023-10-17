@@ -1,0 +1,7 @@
+com\samer\Chat\chat\ChatMessage.class
+com\samer\Chat\chat\ChatMessage$ChatMessageBuilder.class
+com\samer\Chat\config\WebSocketEventListener.class
+com\samer\Chat\config\WebSocket.class
+com\samer\Chat\chat\MessageType.class
+com\samer\Chat\chat\ChatController.class
+com\samer\Chat\ChatApplication.class
